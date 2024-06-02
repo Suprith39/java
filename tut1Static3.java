@@ -4,7 +4,7 @@ class demo1{
         System.out.println("running the test() method");
     }
 }
-public class tut3Static3 {
+public class tut1Static3 {
     public static void main(String[] args) {
         System.out.println("main method started");
         System.out.println(" x value is :"+demo1.x);

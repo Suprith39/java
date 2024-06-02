@@ -1,4 +1,4 @@
-public class tut2Static {
+public class tut1Static2 {
     static int x =100;
     static void test(){
         System.out.println("running test() function");
