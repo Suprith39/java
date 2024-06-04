@@ -3,7 +3,7 @@ package javaClgNotes;
 public class sorting {
     public static void main(String[] args) {
         
-        String a[]={"c","d","x","s"};
+        String a[]={"c","a","x","s"};
         System.out.println("before sorting");
         for (String string : a) {
             System.out.println(string);
